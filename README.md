@@ -1,4 +1,4 @@
-# p7-planner-cli
+# planner-cli
 
 A beautiful **CLI Planner & Notebook** with a rich terminal GUI — **zero dependencies**, built with pure Node.js.
 
@@ -35,7 +35,7 @@ node src/app.js
 ## Project Structure
 
 ```
-p7-planner-cli/
+planner-cli/
 ├── package.json
 ├── README.md
 └── src/
