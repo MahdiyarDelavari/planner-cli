@@ -1,0 +1,15 @@
+{
+  "name": "p7-planner-cli",
+  "version": "1.0.0",
+  "description": "Beautiful CLI planner & notebook with rich terminal GUI — zero dependencies",
+  "main": "src/app.js",
+  "bin": {
+    "planner": "./src/app.js"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": ["cli", "planner", "notebook", "terminal", "gui"],
+  "author": "mahdi",
+  "license": "MIT"
+}
