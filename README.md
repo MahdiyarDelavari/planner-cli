@@ -18,6 +18,7 @@ A beautiful **CLI Planner & Notebook** with a rich terminal GUI — **zero depen
 ## Quick Start
 
 ```bash
+git clone https://github.com/MahdiyarDelavari/planner-cli.git
 cd p7-planner-cli
 node src/app.js
 ```
